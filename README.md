@@ -22,5 +22,5 @@ To use the script, run the following commands in your terminal:
 
 2. **Test with a log file with intrusions:**
 
-  ```bash
-  ./cpu_hogger.pl routerlogtest2.txt
+   ```bash
+   ./cpu_hogger.pl routerlogtest2.txt
